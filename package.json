@@ -1,33 +1,27 @@
 {
-  "name": "react-native-signature-canvas",
-  "version": "4.4.1",
-  "description": "React Native Signature Component based Canvas for Android && IOS && expo",
+  "name": "react-native-canvas-for-sign",
+  "version": "1.0.1",
+  "description": "react-native-canvas-for-sign",
   "main": "index.js",
   "scripts": {
-    "publish": "npm publish",
-    "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
-    "postversion": "git push --follow-tags"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YanYuanFE/react-native-signature-canvas.git"
+    "url": "git+https://github.com/applica-of-things/react-native-canvas-sign.git"
   },
   "keywords": [
-    "react-native",
-    "react component",
-    "ios",
-    "android",
-    "signature",
-    "pad",
+    "applica",
     "canvas",
-    "expo"
+    "sign"
   ],
-  "author": "YanYuanFE",
+  "author": "Applica of Things",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YanYuanFE/react-native-signature-canvas/issues"
+    "url": "https://github.com/applica-of-things/react-native-canvas-sign/issues"
   },
-  "homepage": "https://github.com/YanYuanFE/react-native-signature-canvas#readme",
-  "peerDependencies": {
+  "homepage": "https://github.com/applica-of-things/react-native-canvas-sign#readme",
+  "directories": {
+    "example": "example"
   }
 }
